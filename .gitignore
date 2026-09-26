@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Local editor / OS junk
+*.log
+.idea/
+.vscode/
+
+# Oversized for GitHub (>100MB hard limit). Keep locally; host externally or compress.
+seemanttham.pdf
+
+# Duplicate audio left over from renames
+assets/audio/seemantham-theme_1.mp3
